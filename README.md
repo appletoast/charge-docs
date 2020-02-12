@@ -33,7 +33,7 @@
 
 <div align="center">
   
-  [Charge](https://www.charge.io) envisions a world where customer, merchants, and financial institutions can fully trust online payments without the uncertainty of fraud:
+  [Charge](https://www.charge.io) envisions a world where consumers, merchants, and financial institutions can fully trust online payments without the uncertainty of fraud:
 
   **Consumers**
   :couple:
@@ -54,7 +54,7 @@
 
 Charge offers merchants, consumers, and issuing banks a much needed solution to the abuse and frictions suffered when participating in commerce online, including:
 
-:white_check_mark: Card not Present Fraud
+:white_check_mark: Card Not Present Fraud
 
 :white_check_mark: Counter Money Laundering
 
