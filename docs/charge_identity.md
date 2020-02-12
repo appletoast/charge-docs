@@ -3,7 +3,7 @@
 Charge Identity is a machine learning powered KYC/KYB Widget for onboarding merchants and customers.
 
 <p align="center">
-  <img src="../images/screens/identity_dashboard.png" width="470" alt="identity_dashboard"/> 
+  <img src="../images/screens/identity_dashboard.png" width="420" alt="identity_dashboard"/> 
   <img src="../images/screens/mobile_identity_widget_new.png" width="420" alt="mobile_identity_widget_new" />
 </p>
 
