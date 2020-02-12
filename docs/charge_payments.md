@@ -5,7 +5,7 @@
 :moneybag: Charge Payments :moneybag: is an ecommerce platform that enables merchants to easily charge credit cards. It also allows buyers to validate their transactions prior to processing. 
 
 <p align="center">
-  <img src="../images/screens/payments_checkout.png" width="470" alt="paymnets_checkout"/> 
+  <img src="../images/screens/payments_checkout.png" width="420" alt="paymnets_checkout"/> 
   <img src="../images/screens/mobile_payments_checkout.png" width="420" alt="mobile_payments_checkout" />
 </p>
 
@@ -154,8 +154,8 @@ And your Merchant Dashboard to :
 :white_check_mark: manage your inventory :rugby_football:
 
 <p align="center">
-  <img src="../images/screens/payments_dashboard.png" width="450" alt="payments_dashboard" />
-  <img src="../images/screens/tablet_payments_transaction.png" width="440" alt="tablet_payments_transactions" />
+  <img src="../images/screens/payments_dashboard.png" width="400" alt="payments_dashboard" />
+  <img src="../images/screens/tablet_payments_transaction.png" width="400" alt="tablet_payments_transactions" />
 </p>
 
 <div align="center">
