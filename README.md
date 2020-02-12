@@ -23,10 +23,10 @@
 </div>
 
 <p align="center">
-  <img src="./images/screens/payments_dashboard.png" width="220" alt="payments_dashboard"/> 
-  <img src="./images/screens/tablet_payments_checkout.png" width="220" alt="tablet_payments_checkout" />
-  <img src="./images/screens/mobile_identity_dashboard.png" width="220" alt="mobile_identity_dashboard" />
-  <img src="./images/screens/tablet_identity_widget_view.png" width="220" alt="tablet_identity_widget_view" />
+  <img src="./images/screens/payments_dashboard.png" width="350" alt="payments_dashboard"/> 
+  <img src="./images/screens/tablet_payments_checkout.png" width="350" alt="tablet_payments_checkout" />
+  <img src="./images/screens/mobile_identity_dashboard.png" width="350" alt="mobile_identity_dashboard" />
+  <img src="./images/screens/tablet_identity_widget_view.png" width="350" alt="tablet_identity_widget_view" />
 </p>
 
 ---
