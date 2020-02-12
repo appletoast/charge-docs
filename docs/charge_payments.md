@@ -1,8 +1,8 @@
-![Alt text](/images/charge_payments.png?raw=true 'Charge_payments') 
+![Alt text](/images/charge_payments.png?raw=true 'charge_payments') 
 
-Charge Payments is an ecommerce platform that enables merchants to easily charge credit cards. It also allows buyers to validate their transactions prior to processing. 
-<!-- 
-![Alt text](/images/screens/payments_checkout.png?raw=true 'charge_checkout') ![Alt text](/images/screens/payments_checkout.png?raw=true 'charge_checkout') -->
+---
+
+:moneybag: Charge Payments :moneybag: is an ecommerce platform that enables merchants to easily charge credit cards. It also allows buyers to validate their transactions prior to processing. 
 
 <p align="center">
   <img src="../images/screens/payments_checkout.png" width="470" alt="paymnets_checkout"/> 
@@ -157,3 +157,13 @@ And your Merchant Dashboard to :
   <img src="../images/screens/payments_dashboard.png" width="450" alt="payments_dashboard" />
   <img src="../images/screens/tablet_payments_transaction.png" width="440" alt="tablet_payments_transactions" />
 </p>
+
+<div align="center">
+
+> [charge.io](https://www.charge.io) &nbsp;&middot;&nbsp;
+> [info@charge.io](mailto:info@charge.io?subject=[GitHub]) &nbsp;&middot;&nbsp;
+> [payments@charge.io](mailto:payments@charge.io?subject=[GitHub]) &nbsp;&middot;&nbsp;
+> [wallet@charge.io](mailto:wallet@charge.io?subject=[GitHub]) &nbsp;&middot;&nbsp;
+> [identity@charge.io](mailto:identity@charge.io?subject=[GitHub])
+
+</div>
