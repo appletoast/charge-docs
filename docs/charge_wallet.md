@@ -3,8 +3,8 @@
 The Charge Wallet :briefcase: (also the Charge app) is Charge's mobile app which allows users to pay for their items and to store their assets.
 
 <p align="center">
-  <img src="../images/screens/wallet_vault.png" width="440" alt="wallet_vault"/> 
-  <img src="../images/screens/mobile_payments_checkout.png" width="440" alt="mobile_payments_checkout" />
+  <img src="../images/screens/wallet_vault.png" width="420" alt="wallet_vault"/> 
+  <img src="../images/screens/mobile_payments_checkout.png" width="420" alt="mobile_payments_checkout" />
 </p>
 
 The Charge Wallet is based around the :key: Key Management System (KMS) :key: 
